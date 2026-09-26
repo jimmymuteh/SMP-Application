@@ -45,3 +45,5 @@ def analyze_day(sleep_hr, water_glasses, bench_kg, day_label=None):
         "confidence": confidence,
         "coaching":   coaching,
     }
+# Test the complete pipeline for a day
+print(analyze_day(8, 6, 75, "Monday"))

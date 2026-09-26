@@ -28,6 +28,7 @@ cows = [
     ("Cow 1 (Kamau farm)", 7.2, 50),
     ("Cow 2 (Wanjiku farm)", 5.5, 20),
     ("Cow 3 (Mwangi farm)", 7.8, 70),
+    ("Cow 4 (Mute farm)", 6.9, 60),
 ]
 print("Githunguri Dairy: Daily Yield Predictions")
 print()
